@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607872531 source:d:\file kampus\semester 3\praktikum struktur data\project\uas\project-uas-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
